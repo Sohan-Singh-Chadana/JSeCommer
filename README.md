@@ -66,3 +66,6 @@ This project showcases a blend of self-learning, experimentation, and practical 
 - Modular coding practices to improve scalability.
 
 Future updates will focus on completing the backend integration and refining the overall user experience, transforming the project into a fully functional e-commerce platform.
+
+** Project Link 
+[JS Ecommerce ](https://jsecome.netlify.app/)
